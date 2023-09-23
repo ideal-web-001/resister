@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { NgbCalendar, NgbDateStruct, NgbDatepickerModule } from '@ng-bootstrap/ng-bootstrap';
 
 @Component({
   selector: 'app-root',
